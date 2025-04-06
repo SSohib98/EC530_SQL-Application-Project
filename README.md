@@ -1,5 +1,7 @@
 # EC530_SQL-Application-Project
 
+This is a hackathon project, where I created a chat-based spreadsheet assistant that loads CSV files and answers questions using SQL queries.
+
 step1.py: Load a CSV into SQLite.
 step2.py: Dynamically create tables from CSV and handle data types.
 step3.py: Handle schema conflicts (e.g., adding missing columns).
