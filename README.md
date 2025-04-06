@@ -8,6 +8,7 @@ Description of the Code files attached:
 - step3.py: Handles schema conflicts (e.g., adding missing columns).
 - step4.py: Simulates an interactive chat where users can load CSVs and run SQL queries.
 - step5.py: Integrates AI (like GPT-4) to generate SQL queries from plain language input
+- Example.csv: Random table I created to test the chat AI. 
 
 Instructions on how to run this Chat assisstant:
 1. Install the relevent systems like openai and pandas. 
