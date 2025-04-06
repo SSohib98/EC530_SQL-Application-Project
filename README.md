@@ -3,11 +3,11 @@
 This is a hackathon project, where I created a chat-based spreadsheet assistant that loads CSV files and answers questions using SQL queries.
 
 Description of the Code files attached:
-step1.py: Loads a CSV into SQLite.
-step2.py: Dynamically creates tables from CSV and handles data types.
-step3.py: Handles schema conflicts (e.g., adding missing columns).
-step4.py: Simulates an interactive chat where users can load CSVs and run SQL queries.
-step5.py: Integrates AI (like GPT-4) to generate SQL queries from plain language input
+- step1.py: Loads a CSV into SQLite.
+- step2.py: Dynamically creates tables from CSV and handles data types.
+- step3.py: Handles schema conflicts (e.g., adding missing columns).
+- step4.py: Simulates an interactive chat where users can load CSVs and run SQL queries.
+- step5.py: Integrates AI (like GPT-4) to generate SQL queries from plain language input
 
 Instructions on how to run this Chat assisstant:
 1. Install the relevent systems like openai and pandas. 
